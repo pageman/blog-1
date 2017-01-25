@@ -9,7 +9,7 @@ The end product of this project is the Free Code Camp Manila Blog, which is a ve
 The blog can be accessed at https://fccmanila.github.io/blog.
 
 ## CONTRIBUTING
-Everyone, FCC-Manila members and non-members, from novice to professional, is highly encouraged to contribute by way of code and/or blog articles.
+Everyone, FCC-Manila members and non-members, from novice to professional, are highly encouraged to contribute by way of code and/or blog articles.
 
 For more information on how to contribute, kindly refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
